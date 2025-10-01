@@ -1,0 +1,13 @@
+---
+title: "Ejemplo"
+format: html
+editor: visual
+---
+
+Esto es una sesión cero
+
+```{r}
+datos<-rnorm(10)
+summary(datos)
+```
+
